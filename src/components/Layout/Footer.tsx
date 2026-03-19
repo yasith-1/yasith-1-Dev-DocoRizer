@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
             © {year} DocoRizer Platform. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground flex items-center gap-1.5">
-            Designed with <Heart className="h-3 w-3 text-red-500 fill-red-500" /> for developers everywhere
+            Developed by <Heart className="h-3 w-3 text-red-500 fill-red-500" /> Yashith Prabhashwara
           </p>
         </div>
       </div>

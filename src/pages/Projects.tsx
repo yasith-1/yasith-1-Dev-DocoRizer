@@ -127,7 +127,7 @@ export const Projects: React.FC = () => {
             return (
               <Card
                 key={project.id}
-                className="group hover:shadow-md transition-all duration-200 cursor-pointer border-border/60 hover:border-primary/30"
+                className="group hover:shadow-md transition-all duration-200 cursor-pointer border-primary hover:border-light/30"
                 onClick={() => handleOpen(project)}
               >
                 <CardHeader className="pb-3">
