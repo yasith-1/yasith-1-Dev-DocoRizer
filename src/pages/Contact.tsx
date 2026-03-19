@@ -37,9 +37,9 @@ const Contact: React.FC = () => {
         <div className="space-y-4">
           <h2 className="text-lg font-semibold text-foreground">Contact Details</h2>
           {[
-            { icon: Mail,          label: 'Email',  value: 'hello@docorizer.app', href: 'mailto:hello@docorizer.app' },
-            { icon: Github,        label: 'GitHub', value: 'github.com/docorizer', href: 'https://github.com' },
-            { icon: MessageSquare, label: 'Discord', value: 'Join our community',  href: '#' },
+            { icon: Mail,          label: 'Email',  value: 'yashith.wd@gmail.com', href: 'mailto:yashith.wd@gmail.com' },
+            { icon: Github,        label: 'GitHub', value: 'https://github.com/yasith-1', href: 'https://github.com/yasith-1' },
+            { icon: MessageSquare, label: 'Whatsapp', value: '+94701410113',  href: 'https://wa.me/+94701410113' },
           ].map(c => {
             const Icon = c.icon;
             return (

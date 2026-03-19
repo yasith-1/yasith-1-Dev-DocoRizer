@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
                 </Link>
               </li>
               <li>
-                <a href="mailto:support@docorizer.com" className="text-sm text-muted-foreground hover:text-primary transition-colors flex items-center gap-2 group">
+                <a href="mailto:yashith.wd@gmail.com" className="text-sm text-muted-foreground hover:text-primary transition-colors flex items-center gap-2 group">
                   <Mail className="h-4 w-4" />
                   Email Support
                 </a>
